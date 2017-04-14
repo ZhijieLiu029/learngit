@@ -6,4 +6,5 @@ Just for test GIT how to control version.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 This is just for conflict test.
-
+This line was typed in the branch dev.
+This line is used to test stash.
