@@ -4,8 +4,4 @@ Git has mutable index called stage.
 Git tracks changes.
 Just for test GIT how to control version.
 My stupid boss still prefers SVN.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
