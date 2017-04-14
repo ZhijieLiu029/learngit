@@ -6,3 +6,4 @@ Just for test GIT how to control version.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 This is just for conflict test.
+
